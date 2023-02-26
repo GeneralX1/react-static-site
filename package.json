@@ -10,7 +10,7 @@
   },
   "author": "",
   "dependencies": {
-    "css-loader": "^0.26.2",
+    "css-loader": "^2.0.0",
     "express": "^4.11.0",
     "jsx-loader": "^0.12.2",
     "markdown-loader": "^7.0.0",
@@ -22,7 +22,7 @@
     "react-router": "^1.0.0",
     "style-loader": "^0.13.2",
     "underscore": "^1.7.0",
-    "webpack": "^3.0.0",
-    "webpack-dev-server": "^3.1.11"
+    "webpack": "^4.26.0",
+    "webpack-dev-server": "^4.7.3"
   }
 }
